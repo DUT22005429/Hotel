@@ -1,0 +1,1179 @@
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\APP-20220516T150712Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\Catergory Model\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Downloads\Catergory Model\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Downloads\Catergory Model\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Downloads\Catergory Model\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Downloads\Catergory Model\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Downloads\Catergory Model\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+C:\Users\paven\Desktop\APP-20220621T102509Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\ADPA301\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+C:\Users\sashi\Downloads\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Downloads\AppDev project\APP-20220627T221823Z-001-20220814T101922Z-001\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP-20220627T221823Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\drive-download-20220830T154109Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+C:\Users\sashi\Downloads\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Owin.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\zxing.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\zxing.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\UNKNOWN\Pictures\drive-download-20221016T120132Z-001\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\BookStore.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\PagedList.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Owin.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\zxing.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\PagedList.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\zxing.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+D:\Documents\SPEACIAL BOX\DUT\Year 3\SEM 2\ADPB\APP\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll.config
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\BookStore.Tests.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\BookStore.Tests.pdb
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\BookStore.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\EntityFramework.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Delegation.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Deployment.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Deployment.Tracing.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\PagedList.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\RestSharp.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Buffers.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Memory.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Text.Json.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.ValueTuple.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Owin.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\zxing.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Web.Administration.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\WebGrease.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\BookStore.pdb
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\BookStore.dll.config
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\EntityFramework.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\PagedList.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\PagedList.Mvc.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\RestSharp.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Syncfusion.Licensing.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Syncfusion.Pdf.Base.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Buffers.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Memory.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Numerics.Vectors.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Text.Encodings.Web.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Text.Json.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.ValueTuple.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\zxing.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Workspace\App\APP\BookStore.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Workspace\App\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.AssemblyReference.cache
+C:\Workspace\App\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\App\APP\BookStore.Tests\obj\Debug\BookStore.Tests.csproj.CopyComplete
+C:\Workspace\App\APP\BookStore.Tests\obj\Debug\BookStore.Tests.dll
+C:\Workspace\App\APP\BookStore.Tests\obj\Debug\BookStore.Tests.pdb
