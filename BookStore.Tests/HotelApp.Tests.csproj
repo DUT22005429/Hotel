@@ -156,9 +156,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BookStore\BookStore.csproj">
+    <ProjectReference Include="..\BookStore\HotelApp.csproj">
       <Project>{E64CDB39-D981-4F7C-B64F-E378ED02FED9}</Project>
-      <Name>BookStore</Name>
+      <Name>HotelApp</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
